@@ -47,4 +47,6 @@ For any questions or suggestions, please reach out via:
 
 ## License
 
-MIT License 
+MIT License
+
+## Project Structure 
