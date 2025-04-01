@@ -10,6 +10,8 @@ A simple static personal website built with HTML and CSS.
 - Technical skills showcase
 - Social media links
 
+## Project Structure
+
 ## Tech Stack
 
 - HTML5
@@ -47,6 +49,4 @@ For any questions or suggestions, please reach out via:
 
 ## License
 
-MIT License
-
-## Project Structure 
+MIT License 
