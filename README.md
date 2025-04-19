@@ -2,6 +2,7 @@
 
 A simple static personal website built with HTML and CSS.
 
+
 ## Features
 
 - Responsive design for mobile and desktop
